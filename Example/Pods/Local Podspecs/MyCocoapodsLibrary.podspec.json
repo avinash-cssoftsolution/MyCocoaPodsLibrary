@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Raman rana/MyCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Raman rana": "raman.rana@twinciti.com"
+  },
+  "source": {
+    "git": "https://github.com/Raman rana/MyCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLibrary/Classes/**/*",
+  "resource_bundles": {
+    "MyCocoapodsLibrary": [
+      "MyCocoapodsLibrary/Assets/star.png"
+    ]
+  }
+}
